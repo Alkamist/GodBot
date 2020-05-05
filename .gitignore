@@ -1,4 +1,7 @@
-# exclude everything
+*.pyc
+*.pyo
+
+# exclude everything in these folders
 DolphinEmulator/*
 MeleeISO/*
 .vscode/*
