@@ -1,0 +1,8 @@
+# exclude everything
+DolphinEmulator/*
+MeleeISO/*
+.vscode/*
+
+# exception to the rule
+!DolphinEmulator/.gitkeep
+!MeleeISO/.gitkeep
